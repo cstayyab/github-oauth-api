@@ -1,5 +1,5 @@
 {
-  "name": "github-oauth-api-example",
+  "name": "cstayyab-github-oauth-api",
   "env": {
     "CLIENT_SECRET": "@client_secret"
   }
